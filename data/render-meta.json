@@ -1,0 +1,33 @@
+{
+  "site_id": "tag",
+  "name": "TAG",
+  "test_time_as_printed": "2026-09-22 (CST)",
+  "test_date": "2026-09-22",
+  "source_test_date": "2026-09-20",
+  "date_offset_days_from_source": 2,
+  "report_type": "download_speed_and_latency",
+  "has_download_throughput": true,
+  "backend_as_read": "上海电信 [2Gbps]",
+  "tool_as_read": "SpeedCentre+",
+  "table_rows": 326,
+  "failed_rows": 21,
+  "threads": null,
+  "traffic_used_gb": null,
+  "duration_seconds": null,
+  "ping_count": null,
+  "sorting_as_read": "输入顺序",
+  "version": null,
+  "source": "公开测评图 OCR 转录；数值按专项 SOP 可复现修饰",
+  "source_page": "tuijianvpn article 1122",
+  "source_image_locator": "TAG-20260920 电信测速原图",
+  "source_image_sha256": "b99b8a3ae9581d2a04456b78e1ff363bcb5c91a0ef99826ed89674765739df39",
+  "variant_seed": "PANDA-TAG-20261101-v1",
+  "jitter": {
+    "delay_percent": 3,
+    "speed_percent": 8
+  },
+  "caveats": [
+    "21 行源图无完整测量值，结构化数据保留 null。",
+    "重新制图不改变原始证据；raw 保留 OCR 行。"
+  ]
+}

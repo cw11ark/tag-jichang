@@ -1,0 +1,9 @@
+{
+  "source_page": "tuijianvpn article 1122",
+  "source_image_locator": "TAG-20260920 电信测速原图",
+  "local_source_copy": "source/TAG-20260920.webp",
+  "sha256": "b99b8a3ae9581d2a04456b78e1ff363bcb5c91a0ef99826ed89674765739df39",
+  "ocr_method": "macOS Vision accurate OCR in 16 overlapping vertical chunks",
+  "ocr_box_dir_working_copy": "/tmp/tag-source/boxes",
+  "rows": 326
+}
